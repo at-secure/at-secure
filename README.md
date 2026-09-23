@@ -1,18 +1,11 @@
-Hey, I'm Alok
+Hi, My name is Alok.
 
-I do IT support by day, and lately most of my free time goes into cybersecurity — specifically trying to break into a SOC analyst role.
+I am IT Support  Executive and currently inclined towards Cybersecurity and want to work in SOC analyst role.
 
-For the last few years I've been the person people call when their application won't load, their access is broken, or something in the network stack decided to stop working (Generali Central Insurance, since Nov 2023). Turns out a lot of that — triaging, documenting, escalating under SLA pressure — maps pretty directly onto what a SOC analyst does with alerts. That's basically why I'm making the switch instead of starting from zero.
+For last 32 months i worked as Contact Center Executive assisting when people faced issue regarding their laptops/desktop i.e hardware, software, network or access issues.
 
-Where I'm at right now:
+Currently i have done my CCNA Fundamentals and pursuing CompTIA Security+ and SOC 101 certifications to understand Cybersecurity Core foundations and practical operations.
 
-CCNA done (networking fundamentals)
-Working through CompTIA Security+
-Going through a SOC 101 course to actually understand the monitoring/detection side, not just theory
-Building out home labs — AD, network segmentation, the usual
+What's in this account: Repos i wrote from scratch i.e a ransomware incident (healthcare scenario) and a full risk assessment (retail scenario) along with identifying vulnerabilities (log analysis) and Phishing-email-analyzer (SPF-DKIM-DMARC).
 
-What's in this account: The repos here are simulated case studies I wrote from scratch, not tutorials I followed along with — a ransomware incident write-up (healthcare scenario) and a full risk assessment (retail scenario). I wanted something that actually forces you to think like an analyst — trace an attack chain, pull out IOCs, score severity, decide what to recommend — instead of just ticking off a checklist.
-
-Still early in this. Not pretending otherwise. But I'd rather show what I can actually produce than just list certifications.
-
-If you're hiring for anything SOC/blue-team related, or just want to tell me I got something wrong in one of these reports — reach out. I'd genuinely rather know now.
+Open for Feedback. Thank you.
